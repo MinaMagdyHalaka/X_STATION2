@@ -1,0 +1,8 @@
+{
+    "Test": true,
+    "Auth": true,
+    "Technical": true,
+    "Category": true,
+    "Post": true,
+    "User": true
+}
